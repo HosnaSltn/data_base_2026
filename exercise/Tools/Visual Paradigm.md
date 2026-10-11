@@ -2,7 +2,7 @@
 
 Here is a guide for you in order to make ER diagrams using Visual Paradigm.
 
-The instructions are based on the [Visual Paradigm database design tutorial](https://s.visual-paradigm.com/tutorials/databasedesign.jsp). The interface may look slightly different depending on the version of Visual Paradigm you use.You can also watch this [video](https://www.youtube.com/watch?v=VLPLRQXSk4U) 
+The instructions are based on the [Visual Paradigm database design tutorial](https://s.visual-paradigm.com/tutorials/databasedesign.jsp). The interface may look slightly different depending on the version of Visual Paradigm you use.You can also watch this [video](https://www.youtube.com/watch?v=VLPLRQXSk4U).
 
 ## 1. Create a New Project
 
